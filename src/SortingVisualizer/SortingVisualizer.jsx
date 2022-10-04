@@ -238,7 +238,7 @@ function SortingVisualizer() {
             </button>
           </div>
           <div className="visualizer__authur">
-            Created By-<span className="name">Adesh Pandey</span>
+            {/* Created By-<span className="name">Adesh Pandey</span> */}
           </div>
           <div className="slidecontainer">
             <input
